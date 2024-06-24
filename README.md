@@ -26,8 +26,8 @@ Weather App is an Angular project designed to provide users with current weather
 
 ## Screenshots
 
-![Weather App Screenshot 1](https://ibb.co/zsjM2KX)
-![Weather App Screenshot 2]((https://ibb.co/VgLPNdZ))
+![Weather App Screenshot 001](https://github.com/sbmraj03/Weather-App/assets/100986100/b360da19-c12e-45a6-b259-db3fb511e88b)
+![Weather App Screenshot 002](https://github.com/sbmraj03/Weather-App/assets/100986100/e948d427-cded-44ae-8c7a-754bc76abdc6)
 
 ## Installation
 
