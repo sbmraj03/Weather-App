@@ -21,7 +21,6 @@ Weather App is an Angular project designed to provide users with current weather
 
 - **User Interface:**
   - Modern and intuitive design
-  - Responsive layout for seamless use on any device
   - Easy-to-use search functionality
 
 ## Screenshots
