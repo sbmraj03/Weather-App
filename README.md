@@ -63,7 +63,7 @@ Weather App is an Angular project designed to provide users with current weather
 - **TypeScript** - Programming language
 - **HTML & CSS** - Markup and styling
 - **API** - Used to fetch weather data
-- 
+
 
 ## Acknowledgements
 
