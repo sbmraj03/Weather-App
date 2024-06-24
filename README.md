@@ -1,27 +1,66 @@
-# WeatherApp
+# Weather App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
+Weather App is an Angular project designed to provide users with current weather highlights and a 7-day forecast for any city. It features an intuitive user interface and supports viewing temperatures in both Celsius and Fahrenheit.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Today's Highlights:**
+  - Wind Speed
+  - Temperature
+  - Humidity
+  - Other key weather metrics
 
-## Code scaffolding
+- **7-Day Forecast:**
+  - Daily weather forecast for the next 7 days
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **City Search:**
+  - Search for any city to get current and forecasted weather information
 
-## Build
+- **Temperature Units:**
+  - View temperature in Celsius or Fahrenheit
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **User Interface:**
+  - Modern and intuitive design
+  - Responsive layout for seamless use on any device
+  - Easy-to-use search functionality
 
-## Running unit tests
+## Screenshots
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Weather App Screenshot 1](https://ibb.co/zsjM2KX)
+![Weather App Screenshot 2]((https://ibb.co/VgLPNdZ))
 
-## Running end-to-end tests
+## Installation
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. **Clone the repository:**
 
-## Further help
+   ```bash
+   git clone https://github.com/sbmraj03/Weather-App.git
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+2. **Navigate to the project directory:** 
+        cd Weather-App
+
+3. **Install the dependencies:**
+        npm install
+4. **Run the application:**
+        ng serve
+5. **Open your browser and navigate to:**
+        http://localhost:4200
+
+
+## Usage
+
+- Enter a city name in the search bar to get the current weather information and a 7-day forecast for that city.
+- Switch between Celsius and Fahrenheit by toggling the temperature unit option.
+
+## Technologies Used
+
+- **Angular** - Framework for building the application
+- **TypeScript** - Programming language
+- **HTML & CSS** - Markup and styling
+- **API** - Used to fetch weather data
+- 
+
+## Acknowledgements
+
+- Thanks to [OpenWeather](https://rapidapi.com/) for providing the weather API.
+- Inspired by weather forecast applications and designed with user experience in mind.
