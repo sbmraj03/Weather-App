@@ -37,14 +37,20 @@ Weather App is an Angular project designed to provide users with current weather
    git clone https://github.com/sbmraj03/Weather-App.git
 
 2. **Navigate to the project directory:** 
-        cd Weather-App
+   ```bash
+    cd Weather-App
 
 3. **Install the dependencies:**
-        npm install
+    ```bash
+    npm install
+
 4. **Run the application:**
-        ng serve
+    ```bash
+    ng serve
+    
 5. **Open your browser and navigate to:**
-        http://localhost:4200
+    ```bash
+    http://localhost:4200
 
 
 ## Usage
